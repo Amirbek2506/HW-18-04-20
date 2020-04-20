@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\Urok4\\MyprojecsApp.csproj",
+      "projectUniqueName": "C:\\projects\\HW-18-04-20\\MyprojecsApp.csproj",
       "projectName": "MyprojecsApp",
-      "projectPath": "C:\\projects\\Urok4\\MyprojecsApp.csproj",
+      "projectPath": "C:\\projects\\HW-18-04-20\\MyprojecsApp.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\Urok4\\obj\\",
+      "outputPath": "C:\\projects\\HW-18-04-20\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
