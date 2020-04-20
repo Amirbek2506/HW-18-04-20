@@ -2,6 +2,7 @@ namespace MyprojecsApp
 {
      class Calculator<T>
     {
+        public delegate T DelCalculator(T arg_1, T arg_2);
         private static T Plus(T arg_1, T arg_2)
         {
             return (dynamic)arg_1 + (dynamic)arg_2;
