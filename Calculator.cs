@@ -1,8 +1,12 @@
 namespace MyprojecsApp
 {
-     class Calculator<T>
+    class Calculator<T>
     {
         public delegate T DelCalculator(T arg_1, T arg_2);
+        public DelCalculator OpPlus = Plus;
+        public DelCalculator OpMinus = Minus;
+        public DelCalculator OpMultiply = Multiply;
+        public DelCalculator OpDivide = Divide;
         private static T Plus(T arg_1, T arg_2)
         {
             return (dynamic)arg_1 + (dynamic)arg_2;
