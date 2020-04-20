@@ -6,6 +6,7 @@ namespace MyprojecsApp
     {
         static void Main(string[] args)
         {
+            Calculator<double> A=new Calculator<double>();
             Console.ReadKey();
         }
     }
